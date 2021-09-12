@@ -1,7 +1,6 @@
 name: 'TerraformCI'
 
 on:
-  workflow_dispatch
   push:
     branches: [ master ]
     paths:
